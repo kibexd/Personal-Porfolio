@@ -42,7 +42,7 @@ This is my personal portfolio showcasing my skills, projects, and experience.
 ## Projects
 ### Project 1
 - Description: This is my first project. It showcases my skills in web development.
-- Demo: [Project 1 Demo](https://www.example.com/project1)
+- Demo: [Project 1 Demo]([https://www.example.com/project1](https://t.co/rYuNdNm7hG))
 - Source Code: [Project 1 Repository](https://github.com/your-username/project1)
 
 ### Project 2
@@ -57,18 +57,18 @@ This is my personal portfolio showcasing my skills, projects, and experience.
 - Database Management
 
 ## Experience
-### Company A
+### Local Gas Company
 - Position: Software Engineer
-- Duration: January 2018 - Present
+- Duration: January 2021 - Present
 - Description: Responsible for developing web applications and collaborating with cross-functional teams.
 
 ### Company B
 - Position: Front-end Developer
-- Duration: June 2015 - December 2017
+- Duration: June 2022 - December 2022
 - Description: Worked on creating responsive user interfaces and optimizing website performance.
 
 ## Contact
-- Email: your-email@example.com
+- Email: your-kibeenock7390.com
 - Website: [www.example.com](https://www.example.com)
 - LinkedIn: [Your Name](https://www.linkedin.com/in/your-name)
 - Twitter: [@your-username](https://www.twitter.com/your-username)
