@@ -69,9 +69,9 @@ This is my personal portfolio showcasing my skills, projects, and experience.
 
 ## Contact
 - Email: your-kibeenock7390.com
-- Website: [www.example.com](https://www.example.com)
+- Website: [www.example.com](https://t.co/rYuNdNm7hG)
 - LinkedIn: [Your Name](https://www.linkedin.com/in/your-name)
-- Twitter: [@your-username](https://www.twitter.com/your-username)
+- Twitter: [@your-username](https://twitter.com/kibe_xd)
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
