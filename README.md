@@ -59,7 +59,7 @@ This is my personal portfolio showcasing my skills, projects, and experience.
 
 ## Contact
 - Email: your-kibeenock7390@gmail.com
-- Website: [www.example.com](https://t.co/rYuNdNm7hG)
+- Website: [Enock Kibe](https://transcendent-kangaroo-8e9ef0.netlify.app/)
 - LinkedIn: [Your Name](https://www.linkedin.com/in/your-name)
 - Twitter: [@your-username](https://twitter.com/kibe_xd)
 
