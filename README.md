@@ -58,10 +58,10 @@ This is my personal portfolio showcasing my skills, projects, and experience.
 
 
 ## Contact
-- Email: your-kibeenock7390@gmail.com
+- Email: kibeenock7390@gmail.com
 - Website: [Enock Kibe](https://transcendent-kangaroo-8e9ef0.netlify.app/)
-- LinkedIn: [Your Name](https://www.linkedin.com/in/your-name)
-- Twitter: [@your-username](https://twitter.com/kibe_xd)
+- LinkedIn: [Enock Kibe](https://www.linkedin.com/in/your-name)
+- Twitter: [kibe_xd](https://twitter.com/kibe_xd)
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
