@@ -68,7 +68,7 @@ This is my personal portfolio showcasing my skills, projects, and experience.
 - Description: Worked on creating responsive user interfaces and optimizing website performance.
 
 ## Contact
-- Email: your-kibeenock7390.com
+- Email: your-kibeenock7390@gmail.com
 - Website: [www.example.com](https://t.co/rYuNdNm7hG)
 - LinkedIn: [Your Name](https://www.linkedin.com/in/your-name)
 - Twitter: [@your-username](https://twitter.com/kibe_xd)
