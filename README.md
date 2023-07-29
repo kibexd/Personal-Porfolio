@@ -37,35 +37,25 @@ This is my personal portfolio showcasing my skills, projects, and experience.
 - HTML5
 - CSS3
 - JavaScript
-- React.js
 
 ## Projects
 ### Project 1
 - Description: This is my first project. It showcases my skills in web development.
-- Demo: [Project 1 Demo]([https://www.example.com/project1](https://t.co/rYuNdNm7hG))
+- Demo: [Project 1 Demo]([https://64c55a106d214d0fb9be1e58--tangerine-cat-ec5461.netlify.app/))
 - Source Code: [Project 1 Repository](https://github.com/your-username/project1)
 
-### Project 2
-- Description: This is my second project. It showcases my skills in mobile app development.
-- Demo: [Project 2 Demo](https://www.example.com/project2)
-- Source Code: [Project 2 Repository](https://github.com/your-username/project2)
 
 ## Skills
 - Web Development
-- Mobile App Development
 - UI/UX Design
 - Database Management
 
 ## Experience
 ### Local Gas Company
-- Position: Software Engineer
+- Position: Web Developer
 - Duration: January 2021 - Present
-- Description: Responsible for developing web applications and collaborating with cross-functional teams.
+- Description: Responsible for developing web applications.
 
-### Company B
-- Position: Front-end Developer
-- Duration: June 2022 - December 2022
-- Description: Worked on creating responsive user interfaces and optimizing website performance.
 
 ## Contact
 - Email: your-kibeenock7390@gmail.com
