@@ -60,7 +60,7 @@ This is my personal portfolio showcasing my skills, projects, and experience.
 ## Contact
 - Email: kibeenock7390@gmail.com
 - Website: [Enock Kibe](https://transcendent-kangaroo-8e9ef0.netlify.app/)
-- LinkedIn: [Enock Kibe](https://www.linkedin.com/in/your-name)
+- LinkedIn: [Enock Kife](https://www.linkedin.com/in/your-name)
 - Twitter: [kibe_xd](https://twitter.com/kibe_xd)
 
 ## License
