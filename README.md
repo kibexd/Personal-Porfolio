@@ -1,7 +1,7 @@
 # Personal Portfolio
 
 ## Description
-This is my personal portfolio showcasing my skills, projects, and experience.
+This is my personal portfolio, showcasing my skills, projects, and experience.
 
 ## Table of Contents
 - [Description](#description)
