@@ -42,7 +42,7 @@ This is my personal portfolio, showcasing my skills, projects, and experience.
 ### Project 1
 - Description: This is my first project. It showcases my skills in web development.
 - Demo: [Project 1 Demo]([https://64c55a106d214d0fb9be1e58--tangerine-cat-ec5461.netlify.app/))
-- Source Code: [Umithio Enhancers Consultants](https://github.com/your-username/project1)
+- Source Code: [Umithio Enhancers Consultants](https://tangerine-cat-ec5461.netlify.app/)
 
 
 ## Skills
