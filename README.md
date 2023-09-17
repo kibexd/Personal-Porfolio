@@ -25,7 +25,7 @@ This is my personal portfolio, showcasing my skills, projects, and experience.
 - Contact information
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/your-username/personal-portfolio.git`
+1. Clone the repository: `git clone https://github.com/Kibexd/personal-portfolio.git`
 2. Navigate to the project directory: `cd personal-portfolio`
 3. Install dependencies: `npm install`
 
