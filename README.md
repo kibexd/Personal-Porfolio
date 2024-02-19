@@ -1,6 +1,6 @@
 # Enock Kibe's Portfolio
 
-![Portfolio Screenshot](https://raw.githubusercontent.com/kibexd/First-Repo/main/kibe%20mneti.png)
+![Portfolio Screenshot](https://kifee.netlify.app/)
 
 Welcome to my personal portfolio! Here, you can find a showcase of my projects and skills. Feel free to explore and get in touch if you have any questions or collaboration opportunities.
 
