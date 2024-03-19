@@ -17,7 +17,7 @@ You can access my portfolio website by clicking [here](https://kifee.netlify.app
 
 ## Description
 
-This portfolio showcases my projects and skills in web development. It is built using HTML, CSS, JavaScript, and jQuery to create a responsive and interactive user experience. The projects displayed highlight my proficiency in various technologies and my ability to design and develop functional and visually appealing websites.
+In this portfolio, I present my web development projects and abilities. I utilized HTML, CSS, JavaScript, and jQuery to construct it, ensuring a user-friendly and engaging experience. The projects exhibited here emphasize my proficiency in diverse technologies and my knack for crafting functional and visually pleasing websites.
 
 ## jQuery Integration
 
